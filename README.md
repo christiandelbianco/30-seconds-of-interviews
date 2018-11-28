@@ -28,7 +28,6 @@ Interviews are daunting and can make even the most seasoned expert forget things
 <a href="https://30secondsofinterviews.org"><img src="promo.jpg" alt="30 Seconds of Interviews promo"></a>
 
 <br>
-
 ## Sponsors
 
 All financial support on [Patreon](https://www.patreon.com/fejes713) will be equally split between core colaborators on projects in the way of purchasing educational materials and courses.
